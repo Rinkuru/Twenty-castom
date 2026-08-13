@@ -20,6 +20,14 @@
 
 <br />
 
+**# My README**
+13.08.2026
+git describe --tags --always --dirty
+
+git tag --points-at HEAD
+
+twenty/v2.31.0
+
 # Why Twenty
 
 Twenty gives technical teams the building blocks for a custom CRM that meets complex business needs and quickly adapts as the business evolves. Twenty is the CRM you build, ship, and version like the rest of your stack.
